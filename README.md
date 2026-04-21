@@ -1,4 +1,4 @@
-# PDF rasterizér 🪄
+# PDF rasterizér
 
 Jednoduchá desktopová aplikace, která slouží k ochraně obsahu PDF dokumentů. Aplikace převede (rasterizuje) všechny stránky zdrojového PDF na obrázky a vytvoří nový dokument. Z výsledného souboru nelze kopírovat text ani z něj extrahovat původní zdrojové obrázky nebo vektorové prvky.
 
