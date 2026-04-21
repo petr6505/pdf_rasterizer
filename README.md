@@ -1,4 +1,4 @@
-# PDF kouzelník 🪄
+# PDF rasterizér 🪄
 
 Jednoduchá desktopová aplikace, která slouží k ochraně obsahu PDF dokumentů. Aplikace převede (rasterizuje) všechny stránky zdrojového PDF na obrázky a vytvoří nový dokument. Z výsledného souboru nelze kopírovat text ani z něj extrahovat původní zdrojové obrázky nebo vektorové prvky.
 
@@ -13,9 +13,9 @@ Jednoduchá desktopová aplikace, která slouží k ochraně obsahu PDF dokument
 Aplikace je připravena k okamžitému použití, není potřeba nic instalovat. 
 
 1. Stáhněte si spustitelný soubor pro váš operační systém:
-   * **Windows:** Stáhněte a spusťte soubor `PDF kouzelnik.exe`.
+   * **Windows:** Stáhněte a spusťte soubor `PDF rasterizer.exe`.
    * **Linux:** Stáhněte binární soubor, v terminálu mu udělte práva ke spuštění (`chmod +x nazev_souboru`) a spusťte jej.
-2. V okně aplikace klikněte na tlačítko **Vybrat PDF a zakouzlit 🪄**.
+2. V okně aplikace klikněte na tlačítko **Vybrat PDF pro rasterizaci**.
 3. Vyberte zdrojový PDF dokument, který chcete ochránit.
 4. Potvrďte místo a název pro uložení nového souboru.
 5. Počkejte na zelenou zprávu potvrzující úspěšné dokončení rasterizace.

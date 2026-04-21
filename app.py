@@ -15,7 +15,7 @@ def process_pdf():
     # Získání původního jména souboru a vytvoření návrhu pro nový název
     base_name = os.path.basename(input_path)
     name_without_ext, ext = os.path.splitext(base_name) 
-    suggested_name = f"{name_without_ext}_locked{ext}"  
+    suggested_name = f"{name_without_ext}_ras{ext}"  
 
     # Výběr, kam se má uložit výsledek
     output_path = filedialog.asksaveasfilename(
