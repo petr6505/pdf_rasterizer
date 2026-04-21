@@ -1,5 +1,6 @@
-./build
-./dist
-./pdf_env
-app.spec
-PDF rasterizer.spec
+build/
+dist/
+pdf_env/
+*.spec
+__pycache__/
+*.py[cod]
