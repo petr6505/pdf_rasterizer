@@ -1,0 +1,5 @@
+./build
+./dist
+./pdf_env
+app.spec
+PDF rasterizer.spec
